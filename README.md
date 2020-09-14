@@ -2,7 +2,7 @@
 
 **darkBlue** – dark theme for GNU/Linux or Windows
 
-**sweetPurle** – dark theme for GNU/Linux or Windows
+**sweetPurple** – dark theme for GNU/Linux or Windows
 
 **darky** – dark purple theme for Android [ it works bad after some updates of Telegram ]
 
