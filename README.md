@@ -6,7 +6,7 @@
 
 **darky** – dark purple theme for Android [ it works bad after some updates of Telegram ]
 
-![](preview.jpg)
+![SweetPurple / DarkBlue](preview.jpg)
 
 # Install
 
