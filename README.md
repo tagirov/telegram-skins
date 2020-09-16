@@ -4,7 +4,7 @@
 
 **sweetPurple** – light theme for GNU/Linux or Windows
 
-**darky** – dark purple theme for Android [ it works bad after some updates of Telegram ]
+**darky** – dark purple theme for Android [ it works bad after some updates of Telegram. I will fix it at some point ]
 
 ![SweetPurple / DarkBlue](preview.jpg)
 
