@@ -1,6 +1,6 @@
 # Telegram-skins
 
-<pre>                    sweetPurple                                                darkBlue</pre>
+<pre>                    sweetPurple                                          darkBlue</pre>
 ![](preview.jpg)
 
 # Install
