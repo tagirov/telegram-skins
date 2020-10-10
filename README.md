@@ -3,12 +3,19 @@
 
 https://t.me/addtheme/hydrogen
 
-![Hydrogen colorscheme](hydrogen.jpg)
+![](hydrogen.jpg)
+<br />
+<br />
+<br />
+
 
 https://t.me/addtheme/helium
 
-![Helium colorscheme](helium.jpg)
+![](helium.jpg)
+<br />
+<br />
+<br />
 
 https://t.me/addtheme/glaucous
 
-![Glaucous colorscheme](glaucous.jpg)
+![](glaucous.jpg)
