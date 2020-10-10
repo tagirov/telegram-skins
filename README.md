@@ -1,8 +1,14 @@
 ## Telegram-skins
+<br />
 
-![](preview.jpg)
+https://t.me/addtheme/hydrogen
 
-## Install
+![Hydrogen colorscheme](hydrogen.jpg)
 
-1. git clone https://github.com/tagirov/telegram-skins
-2. Attach theme file in *Saved Messages* then click on it and apply new theme
+https://t.me/addtheme/helium
+
+![Helium colorscheme](helium.jpg)
+
+https://t.me/addtheme/glaucous
+
+![Glaucous colorscheme](glaucous.jpg)
