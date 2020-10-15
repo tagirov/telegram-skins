@@ -1,4 +1,4 @@
-## Telegram-skins
+## Telegram-themes
 <br />
 
 https://t.me/addtheme/hydrogen
